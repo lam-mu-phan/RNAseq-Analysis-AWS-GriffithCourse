@@ -1,0 +1,59 @@
+# for starting a fresh session
+new 
+
+#genome hg19
+
+# adds a pause between commands.
+setSleepInterval 200
+
+# change this path to point to your files:
+load C:\Users\lammu\OneDrive\Desktop\Griffith_rna\IGV\igv_HCC1143_attributes.txt
+load C:\Users\lammu\OneDrive\Desktop\Griffith_rna\IGV\HCC1143.normal.21.19M-20M.bam
+
+
+snapshotDirectory C:\Users\lammu\OneDrive\Desktop\Griffith_rna\IGV\snapshot
+
+
+# Example1:
+goto chr21:19479237-19479814
+sort strand
+maxPanelHeight 50000
+snapshot HCC1143_exercise1_SNV_SNP_pair.png
+
+# Example2:
+goto chr21:19518412-19518497
+sort strand
+snapshot HCC1143_exercise2_homopolymerRepeat.png
+
+# Example3:
+goto chr21:19611925-19631555
+collapse
+snapshot HCC1143_exercise3_lowGC.png
+
+# Example4:
+goto chr21:19666833-19667007
+expand
+sort base
+snapshot HCC1143_exercise4_hetSNP_allelic.png
+
+# Example5:
+goto chr21:19800320-19818162
+collapse
+snapshot HCC1143_exercise5_LINErepeat.png
+
+# Example6:
+goto chr21:19324469-19331468
+expand
+viewaspairs
+snapshot HCC1143_exercise6_homDEL.png
+
+# Example7:
+goto chr21:19102154-19103108
+snapshot HCC1143_exercise7_AluY.png
+
+# Example8:
+goto chr21:19089694-19095362
+snapshot HCC1143_exercise8_translocation.png
+
+# To close IGV:
+#exit
