@@ -11,11 +11,11 @@ Malachi Griffith*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Ob
 
 ## This GitHub reposistory contains:
 1. Jupyter Notebook files (.ipynb) detailing my explanantion, my code (from this course but also alternative code learned from ChatGPT and other courses) and outputs.
-2. A better guideline on how to log into course compute (EC2 instance) for self-learners like me who don't have the chance to attend the course in-person. Instrution can be found in Initial_Setup.doc file.
-3. Bonus: How to install Jupyter Notebook to your instance so you can record your progress as you're running the analysis like I did. I learned this from ChatGPT, so thanks, ChatGPT! Instrution can be found in Initial_Setup.doc file.
+2. A better guideline on how to log into course compute (EC2 instance) for self-learners like me who don't have the chance to attend the course in-person. Instrution can be found in **Initial_Setup.docx** file.
+3. Bonus: How to install Jupyter Notebook to your instance so you can record your progress as you're running the analysis like I did. I learned this from ChatGPT, so thanks, ChatGPT! Instrution can be found in **Initial_Setup.docx** file.
 
 ## How to use:
 1. Follow the course's instruction: https://rnabio.org/course/
-2. If you're curious if your output looks like mine or learn from me some more efficient/interesting ways to execute some commands, look at my Jupyter Notebook files, eg "Module01_annotations_indexing.ipynb". I name my .ipynb files accordingly to the course's outline (https://rnabio.org/course/). To view .ipynb file, click on it while you're on this GitHub page, or install Jupyter Notebook to your EC2 instance (instrution can be found in Initial_Setup.doc file). 
+2. If you're curious if your output looks like mine or learn from me some more efficient/interesting ways to execute some commands, look at my Jupyter Notebook files, eg "Module01_annotations_indexing.ipynb". I name my .ipynb files accordingly to the course's outline (https://rnabio.org/course/). To view .ipynb file, click on it while you're on this GitHub page, or install Jupyter Notebook to your EC2 instance (instrution can be found in **Initial_Setup.docx** file). 
 
 Contact me at lam.mu.phan@gmail.com should you have any questions regarding my codes.
