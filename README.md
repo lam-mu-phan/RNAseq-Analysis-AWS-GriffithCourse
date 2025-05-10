@@ -16,6 +16,7 @@ Malachi Griffith*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Ob
 
 ## How to use:
 1. Follow the course's instruction: https://rnabio.org/course/
-2. If you're curious if your output looks like mine or learn from me some more efficient/interesting ways to execute some commands, look at my Jupyter Notebook files, eg "Module01_annotations_indexing.ipynb". I name my .ipynb files accordingly to the course's outline (https://rnabio.org/course/). To view .ipynb file, click on it while you're on this GitHub page, or install Jupyter Notebook to your EC2 instance (instrution can be found in **Initial_Setup.docx** file). 
+2. If you're curious if your output looks like mine or learn from me some more efficient/interesting ways to execute some commands, look at my Jupyter Notebook files, eg "Module01_annotations_indexing.ipynb". I name my .ipynb files accordingly to the course's outline (https://rnabio.org/course/). To view .ipynb file, click on it while you're on this GitHub page, or install Jupyter Notebook to your EC2 instance (instrution can be found in **Initial_Setup.docx** file).
+3. To view MultiQC_PostAlignment.html, click this link: https://lam-mu-phan.github.io/RNAseq-Analysis-AWS-GriffithCourse/MultiQC_PostAlignment.html 
 
 Contact me at lam.mu.phan@gmail.com should you have any questions regarding my codes.
