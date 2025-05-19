@@ -11,6 +11,7 @@ Malachi Griffith*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Ob
 
 ## This GitHub reposistory contains:
 1. Jupyter Notebook files (.ipynb) detailing my explanantion, my code (from this course but also alternative code learned from ChatGPT and other courses) and outputs.
+   - [Special] Summary.ipynb: Step-by-step output summary from alignment to DE analysis   
 2. A better guideline on how to log into course compute (EC2 instance) for self-learners like me who don't have the chance to attend the course in-person. Instrution can be found in **Initial_Setup.docx** file.
 3. Bonus: How to install Jupyter Notebook to your instance so you can record your progress as you're running the analysis like I did. I learned this from ChatGPT, so thanks, ChatGPT! Instrution can be found in **Initial_Setup.docx** file.
 
