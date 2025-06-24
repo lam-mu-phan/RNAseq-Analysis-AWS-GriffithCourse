@@ -5,6 +5,8 @@
 We'll be learning not only tools for bulk and single-cell RNA-seq analysis but also cloud computing with Amazon Web Services (AWS). 
 The course website is: https://rnabio.org/
 
+In my notebooks, I rewrote some commands for improved readability (using bash loops) and consistency. I also recorded alternative commands that perform the same functions. This aims to demonstrate that there're multiple ways to solve a problem. Besides, I added more beginner-friendly notes to accompany the original materials.
+
 ## Citation: 
 Malachi Griffith*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Obi L. Griffith*. 2015. Informatics for RNA-seq: A web resource for analysis on the cloud. PLoS Comp Biol. 11(8):e1004393. 
 *To whom correspondence should be addressed: E-mail: mgriffit@wustl.edu, obigriffith@wustl.edu
